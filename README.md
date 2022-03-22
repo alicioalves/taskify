@@ -6,8 +6,8 @@ Lista de afazeres. Com o Taskify você pode adicionar, remover e editar tarefas 
 
 ## Bibliotecas
 
-*Para fazer o drag-and-drop foi utilizada a [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
-*Os ícones são da biblioteca [react-icons](https://react-icons.github.io/react-icons/)
+* Para fazer o drag-and-drop foi utilizada a [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+* Os ícones são da biblioteca [react-icons](https://react-icons.github.io/react-icons/)
 
 ## Como rodar o projeto
 
